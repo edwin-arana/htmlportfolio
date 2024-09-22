@@ -367,7 +367,7 @@ article .icon {
 }
 
 .project-calc {
-    height: 70%;
+    object-fit: contain;
 }
 
 .project-title {
