@@ -368,6 +368,7 @@ article .icon {
 
 .project-calc {
     object-fit: contain;
+    height: 200px;
 }
 
 .project-title {
