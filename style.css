@@ -368,6 +368,12 @@ article .icon {
     max-width: 100%;
 }
 
+.project-clock {
+    width: auto;
+    height: auto;
+    object-fit: contain;
+}
+
 .project-calc {
     object-fit: contain;
     height: 500px;
